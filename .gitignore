@@ -1,0 +1,4 @@
+#listado de archivos ignorados
+
+*.scss
+*./scss
